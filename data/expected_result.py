@@ -1,2 +1,3 @@
 class Results:
-    a = ""
+    summary_text = 'Podsumowanie'
+    field_required_text = 'Pole wymagane'

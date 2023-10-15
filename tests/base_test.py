@@ -1,7 +1,10 @@
 import unittest
+
 from selenium import webdriver
+
 from pages.base_page import BasePage
 from utils.urls import Urls
+
 
 class BaseTest(unittest.TestCase):
     def setUp(self):
